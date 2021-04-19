@@ -11,3 +11,4 @@ function removeFriend() {
 		}, 500);
 	}, 1000);
 }
+removeFriend();
